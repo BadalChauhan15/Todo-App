@@ -1,0 +1,30 @@
+.todo__form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+input[type="text"] {
+    font-size: 1rem;
+    padding: 10px;
+    color: #3a3a3a;
+    background-color: #ffffffea;
+    border: 2px solid #808080da;
+}
+
+button {
+    padding: 8px 10px;
+    font-size: 15px;
+    background-color: #02de5e;
+    font-weight: bold;
+    border: none;
+    transition: 500ms;
+    margin-left: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #02c352d1;
+}

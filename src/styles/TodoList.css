@@ -1,0 +1,34 @@
+.btn__delete {
+    background-color: #ff0000;
+}
+
+.btn__delete:hover {
+    background-color: #e20101d6;
+}
+
+.btn__move {
+    background-color: #15b0fe;
+}
+
+.btn__move:hover {
+    background-color: #0085d2ce;
+}
+
+.order__list {
+    padding: 0;
+}
+
+.list__container {
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fffffff1;
+    color: #000000;
+    font-weight: bold;
+    border: 2px solid #777777;
+    align-items: center;
+}
+
+.list__items {
+    flex: 1;
+}
